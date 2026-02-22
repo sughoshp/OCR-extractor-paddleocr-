@@ -1,0 +1,20 @@
+[project]
+name = "temp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9,<3.10"
+dependencies = [
+    "albucore==0.0.12",
+    "albumentations==1.4.11",
+    "greenlet<3.1.0",
+    "layoutparser>=0.3.4",
+    "lxml>=6.0.2",
+    "opencv-python==4.5.5.64",
+    "openpyxl>=3.1.5",
+    "paddleocr>=2.9.0",
+    "paddlepaddle==2.6.2",
+    "paddlepaddle-gpu>=2.6.2",
+    "paddlex==3.0.0b2",
+    "pandas>=2.3.3",
+]
